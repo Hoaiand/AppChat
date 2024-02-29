@@ -1,0 +1,16 @@
+export default {
+    // DISCOVER: 'Khám Phá',
+    DEFAULT: 'Default',
+    LOGIN: 'Đăng nhập',
+    FORGET: 'Lấy lại mật khẩu',
+    CHAT: 'Chat',
+    HOME: 'Home',
+    PHONEBOOK: 'Danh bạ',
+    FRIEND: 'Bạn bè',
+    GROUP: 'Nhóm',
+    AOV: 'AOV',
+    DISCOVER: 'Khám phá',
+    DIARY: 'Nhật ký',
+    ME: 'Cá nhân',
+    REGISTION: 'Tạo tài khoản',
+};
